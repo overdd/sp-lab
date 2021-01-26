@@ -11,7 +11,6 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
 
 	MessageBox(NULL, lpszHelloText, lpszHelloWndTitle, MB_OK);
 
-	////////////////////////////////////////////////////////////////////////////////////////////////////////
 	// второе ОКНО
 
 	LPCTSTR lpszHelloRussText = MESSAGE_TEXT_0;
@@ -31,13 +30,10 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
 	lstrcat(Buff1, Buff2);
 	// выводим результат склеивания
 	MessageBox(NULL, Buff1, lpszHelloWndTitle, MB_OK | MB_ICONEXCLAMATION);
-	////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 	// 4.2
-
 	//int iRetValue1, iRetValue2;
-
 	//LPCTSTR lpszMesBoxTitle = TEXT("Изучаем MessageBox");
-
 	//TCHAR lpszResponce[200] = { 0 };
 	//do {
 	//	iRetValue1 = MessageBox(NULL, TEXT("Нажмите одну из кнопок."), lpszMesBoxTitle,
@@ -65,7 +61,6 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
 
 	//while (iRetValue2 != IDNO);
 
-	//////////////////////////////////////////////////////////////////////////////////////////////////////
 	//4.3 Согласно индивидуального задания
 
 	int iRetValue1, iRetValue2;
