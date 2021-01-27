@@ -1,0 +1,4 @@
+﻿  SP _ Pr 1_ Simple .cpp
+C:\Users\anton\source\repos\sp-lab\Lab_1-1\SP _ Pr 1_ Simple\SP _ Pr 1_ Simple\SP _ Pr 1_ Simple .cpp(28,28): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+C:\Users\anton\source\repos\sp-lab\Lab_1-1\SP _ Pr 1_ Simple\SP _ Pr 1_ Simple\SP _ Pr 1_ Simple .cpp(29,32): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+  SP _ Pr 1_ Simple.vcxproj -> C:\Users\anton\source\repos\sp-lab\Lab_1-1\SP _ Pr 1_ Simple\Debug\SP _ Pr 1_ Simple.exe
