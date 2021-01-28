@@ -1,0 +1,3 @@
+﻿  sp_pr3.cpp
+C:\Users\anton\source\repos\sp-lab\Lab_1-3-4\SP_PR3\SP_PR3\sp_pr3.cpp(351,9): warning C4101: 'lpszMsgSpace': unreferenced local variable
+  SP_PR3.vcxproj -> C:\Users\anton\source\repos\sp-lab\Lab_1-3-4\SP_PR3\Debug\SP_PR3.exe
